@@ -1,0 +1,2 @@
+# web_scraping_data_to_json_generator
+A python script I created to make my work days easier at my University job, which include checking when rooms are available to check the room-equipment. jsonFromHTMLGenerator.py scraps the university room booking website for room-booking times and creates a json file for when the different rooms are booked. main_program.py uses the created json file to create a overview of when the rooms are available instead of when they are booked. 
